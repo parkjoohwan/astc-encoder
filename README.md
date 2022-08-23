@@ -2,7 +2,7 @@
 astc-encoder excute cshap
 
 
-astc 인코더를 C# 서버단에서 쓰기위해 테스트해 본 콘
+astc 인코더를 C# 서버단에서 쓰기위해 테스트해 본 콘솔
 
 Cmake로 C++ 프로젝트를 빌드 한 뒤 dll을 생성해서 강제로 import 시켜서 사용함,
 
